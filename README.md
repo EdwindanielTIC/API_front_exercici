@@ -112,6 +112,13 @@ Ahora doy a ejecutar y podemos ver que se ha subido correctamente :
 
 ![CARGAMASIVADOCS](https://github.com/user-attachments/assets/97533a57-b706-4044-8ede-9c3795a032d3)
 
+Ahora me dirijo a HeidiSQL y podemos ver que se han actualizado correctamente : 
+
+![image](https://github.com/user-attachments/assets/603383a5-0a14-4170-86d5-d10880ffc117)
+
+
+
+
 
 
 
