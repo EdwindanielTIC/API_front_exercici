@@ -107,6 +107,11 @@ Compruebo que lo haya leido :
 
 ![image](https://github.com/user-attachments/assets/ff6c0aca-3d62-43aa-bcfd-521f634eb494)
 
+Ahora doy a ejecutar y podemos ver que se ha subido correctamente :
+
+![CARGAMASIVADOCS](https://github.com/user-attachments/assets/97533a57-b706-4044-8ede-9c3795a032d3)
+
+
 
 
 
