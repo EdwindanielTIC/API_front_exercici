@@ -72,9 +72,29 @@ Para poder hacer esta funcion, la he sustituido en el js, por la siguiente ruta 
 
 Ahora actualizo el index.html y como la busqueda ha sido que contenga Lusi, me devuelve el siguiente dato.
 
-Como podemosver, funciona.
+Como podemos ver, funciona.
 
 ![image](https://github.com/user-attachments/assets/c9d7c217-b87e-4490-a82c-323bf5bd42aa)
+
+
+## ?skip= (int)&limit=(int) 
+
+En el js, he sustituido la ruta por la siguiente : 
+
+ fetch("http://127.0.0.1:8000/alumnes/list?skip=2&limit=10") 
+
+ ![image](https://github.com/user-attachments/assets/17723e0d-e714-4190-9314-292e22936251)
+
+ Optenemos el siguiente resultado.
+
+ ![image](https://github.com/user-attachments/assets/15886ec2-5d3c-416b-ac34-418700c973cd)
+
+ Podemos ver que funciona.
+
+
+
+ 
+
 
 
 
