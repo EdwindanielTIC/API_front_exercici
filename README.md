@@ -54,7 +54,14 @@ Despues he habierto el index html y me ha funcionado, adjuto captura :
 **?orderby=(str)**
 He creado la funcion de ordenar los valores dependiendo de su nombre y he omptenido el siguiente resultado. 
 En js he cambiado la ruta por : http://127.0.0.1:8000/alumnes/list?orderby=asc
+
 ![image](https://github.com/user-attachments/assets/2ae86418-0812-4f36-98d0-ce9437d6fc10)
+
+Si comparamos la siguiente imagen con la primera, podemos ver como han sido ordenados: 
+
+![image](https://github.com/user-attachments/assets/cbb10c93-b2ed-4160-b206-7ac688b3fc45)
+
+
 
 
 
