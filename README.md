@@ -70,8 +70,9 @@ Para poder hacer esta funcion, la he sustituido en el js, por la siguiente ruta 
  
 ![image](https://github.com/user-attachments/assets/de14119c-bfca-4f6e-9894-30f92f9d566e)
 
-Ahora actualizo el index.html y como la busqueda ha sido que contenga Lusi, me devuelve el siguiente dato : 
-como podemosver, funciona.
+Ahora actualizo el index.html y como la busqueda ha sido que contenga Lusi, me devuelve el siguiente dato.
+
+Como podemosver, funciona.
 
 ![image](https://github.com/user-attachments/assets/c9d7c217-b87e-4490-a82c-323bf5bd42aa)
 
