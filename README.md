@@ -101,7 +101,8 @@ Primero de todo he creado el enpoint con la siguiente ruta :  /alumne/loadAlumne
 
 A continuacion, he creado un documento csv con la siguiente informacion : 
 
-![cargaMasiva.csv](https://github.com/user-attachments/assets/01c0bb48-557c-45f9-a1d1-3679a68238dc)
+![CargaMasiva](https://github.com/user-attachments/assets/37412a7d-7f46-4be5-91da-d0d8a6106418)
+
 
 Compruebo que lo haya leido : 
 
