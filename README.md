@@ -93,7 +93,23 @@ En el js, he sustituido la ruta por la siguiente :
 
 
 
- 
+### Apartat 3: Càrrega massiva d’alumnes 
+
+Primero de todo he creado el enpoint con la siguiente ruta :  /alumne/loadAlumnes
+
+![image](https://github.com/user-attachments/assets/2d258d04-1f46-45fc-a578-eef62d700078)
+
+A continuacion, he creado un documento csv con la siguiente informacion : 
+
+![cargaMasiva.csv](https://github.com/user-attachments/assets/01c0bb48-557c-45f9-a1d1-3679a68238dc)
+
+Compruebo que lo haya leido : 
+
+![image](https://github.com/user-attachments/assets/ff6c0aca-3d62-43aa-bcfd-521f634eb494)
+
+
+
+
 
 
 
