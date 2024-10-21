@@ -116,6 +116,11 @@ Ahora me dirijo a HeidiSQL y podemos ver que se han actualizado correctamente :
 
 ![image](https://github.com/user-attachments/assets/603383a5-0a14-4170-86d5-d10880ffc117)
 
+Ahora adjunto captura que me funciona correctamente en el html 
+
+![image](https://github.com/user-attachments/assets/c180ff15-fa83-4cdf-bb81-ea4eb396aa74)
+
+
 
 
 
