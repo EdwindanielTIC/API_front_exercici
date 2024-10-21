@@ -1,11 +1,15 @@
+import sys # esto me he visto obligado a ponerlo porque si no, no me funciona fastapi y lo que hace esacceder a las rutas de busquerda de modulos.
+sys.path.append('./API') # lo que hace es agregar mi carpeta API al sistema de busqueda de modulos de python
+# estas dos cosas juntas lo que hacen es encontrar los mdouleos que estan en la carpeta api incluso si no esta el script principal en API
 import os
 from fastapi import FastAPI, File, HTTPException, UploadFile
 from datetime import datetime ## he tenido que importar el datetime, por que si no me daba error en todo momento
-import alumne_db
-import alumne
+from API import alumne_db
+from API import alumne
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List
 from pydantic import BaseModel
+
 
 app = FastAPI() 
 

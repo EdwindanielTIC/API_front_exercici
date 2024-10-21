@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     fetch("http://127.0.0.1:8000/alumnes/list")
 ///alumnes/list?contain=Luis
-///alumnes/list?skip=2&limit=10
+///alumnes/list?skip=2&limit=10     
 ////alumnes/list?orderby=asc
 ///alumnes/list
         .then(response => {
